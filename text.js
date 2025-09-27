@@ -1,3 +1,3 @@
 console.log("bye")
-console.log("hy")
-console.log("game")
+let a =3
+
