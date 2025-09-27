@@ -1,1 +1,5 @@
-this world is piece of shit
+Welcome to Git!
+
+This is coming from newDev
+=======
+
